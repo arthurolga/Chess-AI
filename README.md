@@ -6,10 +6,18 @@ Project created with MLOps-Template cookiecutter. For more info: https://mlop-gu
 ## 📋 Requirements
 
 * DVC
-* Python3 and pip
+* Python3, pip and jupyter
+* GPU Access OR Google Colab
+* Access to ChessAI Google Drive OR the following files:
+    - data/dataset.7z
+    - models/model-ResConv2d.h5
 
 ## 🏃🏻 Running Project
 
+Running the playable Jupyter Notebook
+```
+jupyter notebook notebooks/play.ipynb
+```
 
 ### ✅ Pre-commit Testings
 
