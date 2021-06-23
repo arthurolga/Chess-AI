@@ -19,26 +19,12 @@ Running the playable Jupyter Notebook
 jupyter notebook notebooks/play.ipynb
 ```
 
-### ✅ Pre-commit Testings
+## Model
 
-In order to activate pre-commit testing you need ```pre-commit```
+Residual Convolutional with 5 main Conv2D layers, using ReLU activation function.
 
-Installing pre-commit with pip
-```
-pip install pre-commit
-```
 
-Installing pre-commit on your local repository. Keep in mind this creates a Github Hook.
-```
-pre-commit install
-```
-
-Now everytime you make a commit, it will run some tests defined on ```.pre-commit-config.yaml``` before allowing your commit.
-
-**Example**
-```
-$ git commit -m "Example commit"
-
-black....................................................................Passed
-pytest-check.............................................................Passed
-```
+Plot of the model:
+<center>
+<img src="results/model.png">
+</center>
