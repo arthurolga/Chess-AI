@@ -4,6 +4,8 @@ Project created with MLOps-Template cookiecutter. For more info: https://mlop-gu
 
 ### DEMO: [Play Chess on Google Colab](https://colab.research.google.com/drive/1xEmmstFm2_NWrnP9Hnk3Ys8SizNXFJFQ?usp=sharing)
 
+<a href="https://drive.google.com/file/d/1b0ZtrW785CNO-BBipvd1ova9oslyh__Q/view?resourcekey" ><img src="video-screenshot.png" width="400px;" /></a>
+
 You can also run the notebook locally with this repository following this README
 ## 📋 Requirements
 
