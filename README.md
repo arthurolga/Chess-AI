@@ -2,7 +2,7 @@
 
 Project created with MLOps-Template cookiecutter. For more info: https://mlop-guide.github.io/
 
-### DEMO: [Play Chess on Google Colab](https://colab.research.google.com/drive/1xEmmstFm2_NWrnP9Hnk3Ys8SizNXFJFQ#scrollTo=YDPQwzIVffyb)
+### DEMO: [Play Chess on Google Colab](https://colab.research.google.com/drive/1xEmmstFm2_NWrnP9Hnk3Ys8SizNXFJFQ?usp=sharing)
 
 You can also run the notebook locally with this repository following this README
 ## 📋 Requirements
