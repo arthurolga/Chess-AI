@@ -2,7 +2,9 @@
 
 Project created with MLOps-Template cookiecutter. For more info: https://mlop-guide.github.io/
 
+## Showcase: [Play Chess on Google Colab](https://colab.research.google.com/drive/1xEmmstFm2_NWrnP9Hnk3Ys8SizNXFJFQ#scrollTo=YDPQwzIVffyb)
 
+You can also run th notebook locally with this repository following this README
 ## 📋 Requirements
 
 * DVC
@@ -16,7 +18,7 @@ Project created with MLOps-Template cookiecutter. For more info: https://mlop-gu
 
 Running the playable Jupyter Notebook
 ```
-jupyter notebook notebooks/play.ipynb
+jupyter notebook notebooks/PlayChess.ipynb
 ```
 
 ## Model
